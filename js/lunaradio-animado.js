@@ -755,9 +755,9 @@ left: "-5%",
 top: "-5%",
 height: "110%",
 width: "110%",
-"-webkit-filter": "blur(15px)",
-filter: "blur(15px)",
-//opacity: "0.5"
+"-webkit-filter": "blur(0px)",
+filter: "blur(0px)",
+opacity: "0.0"
 });
 b = document.createElement("div");
 b.id = c + "backgroundimage1";
